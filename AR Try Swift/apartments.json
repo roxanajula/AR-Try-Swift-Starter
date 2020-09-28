@@ -1,0 +1,26 @@
+[
+    {
+        "id": "A2",
+        "name": "Anuva A2",
+        "description": "2 beds, 2 Baths, 1800 sqft",
+        "price": 50000
+    },
+    {
+        "id": "B1",
+        "name": "Anuva B1",
+        "description": "2 beds, 2 Baths, 2000 sqft",
+        "price": 45000
+    },
+    {
+        "id": "C2",
+        "name": "Anuva C2",
+        "description": "2 beds, 1 Bath, 1600 sqft",
+        "price": 10000
+    },
+    {
+        "id": "Loft1",
+        "name": "Anuva Loft 1",
+        "description": "1 bed, 1 Bath, 900 sqft",
+        "price": 30000
+    }
+]
